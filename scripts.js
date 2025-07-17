@@ -125,3 +125,4 @@ document.getElementById("buscador").addEventListener("input", e => {
     ramo.style.display = visible ? "block" : "none";
   });
 });
+
